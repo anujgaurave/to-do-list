@@ -1,37 +1,46 @@
-#React Todo List
+# React Todo List
 
-<br/>
-This is a simple Todo List application built using React. The app allows users to add and delete tasks, with state management handled through React Context API and useReducer.
+This is a simple Todo List application built using React. The app allows users to **add** and **delete** tasks, with state management handled through React Context API and `useReducer`.
 
-***Features***
-<br/>
-Add Todos: Easily create new tasks.<br/>
-Delete Todos: Remove tasks with a click.<br/>
-State Management: Efficiently managed through useReducer and Context API.<br/>
+## Features
 
-***Tech Stack***
-<br/>
-React: JavaScript library for building user interfaces.<br/>
-Context API & useReducer: For state management.<br/>
-CSS: Simple styling for layout and user experience.<br/>
-Vite: Development environment for fast bundling and building.<br/>
+- **Add Todos**: Easily create new tasks.
+- **Delete Todos**: Remove tasks with a click.
+- **State Management**: Efficiently managed through `useReducer` and Context API.
 
-***Installation***
+## Tech Stack
+
+- **React**: JavaScript library for building user interfaces.
+- **Context API & useReducer**: For state management.
+- **CSS**: Simple styling for layout and user experience.
+- **Vite**: Development environment for fast bundling and building.
+
+## Installation
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/your-username/react-todo-list.git
+
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd to-do-list
+
+3. **Install dependencies:**
+   ```bash
+    npm install 
+4. **Start the development server:**
+   ```bash
+   npm run dev
+5. **Open your browser and go to:**
+http://localhost:3000
 <br/>
-1. Clone the repository:<br/>
-git clone https://github.com/anujgaurave/to-do-list.git<br/>
-2. Navigate to the project directory:<br/>
-cd to-do-list<br/>
-3. Install dependencies:<br/>
-npm install <br/>
-4. Start the development server:<br/>
-npm run dev<br/>
-5. Open your browser and go to: <br/>
-http://localhost:3000<br/>
-***Usage***
+6. **Usage**
    <br/>
-Add a task: Type a task in the input field and press enter or click the "Add" button.<br/>
-Delete a task: Click the "Delete" button next to a task to remove it from the list.<br/>
+   
+- Add a task: Type a task in the input field and press enter or click the "Add" button.<br/>
+- Delete a task: Click the "Delete" button next to a task to remove it from the list.<br/>
 ***Folder Structure***
    <br/>
 src/<br/>
