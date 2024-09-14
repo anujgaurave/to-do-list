@@ -1,5 +1,5 @@
+#React Todo List
 
-*React Todo List*  
 <br/>
 This is a simple Todo List application built using React. The app allows users to add and delete tasks, with state management handled through React Context API and useReducer.
 
