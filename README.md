@@ -37,6 +37,7 @@ This is a simple Todo List application built using React. The app allows users t
 http://localhost:3000
 <br/>
 6. **Usage**
+ 
    <br/>
    
 - Add a task: Type a task in the input field and press enter or click the "Add" button.<br/>
